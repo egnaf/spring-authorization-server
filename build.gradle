@@ -13,7 +13,6 @@ apply plugin: 'io.spring.convention.root'
 
 group = 'org.springframework.security.experimental'
 description = 'Spring Authorization Server'
-version = '0.0.1-SNAPSHOT'
 
 repositories {
 	mavenCentral()
